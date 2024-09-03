@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ✨ I studied Mechanical Engeneering at the [Helmut-Schmidt-Universität] (https://www.hsu-hh.de/mb/) in Hamburg  
+- ✨ I studied Mechanical Engeneering at the [Helmut-Schmidt-Universität](https://www.hsu-hh.de/mb/) in Hamburg  
 - 🔭 I’m currently working on using ML to apply Tone Mapping Operators
 
 - 
