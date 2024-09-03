@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi, I´m Alexander
 
 - ✨ I studied Mechanical Engeneering at the [Helmut-Schmidt-Universität](https://www.hsu-hh.de/mb/) in Hamburg  
 - 🔭 I’m currently working on using ML to apply Tone Mapping Operators
-
+- 🌱 I’m currently learning about Superresolution using ML and Embedded Programming
+  
 - 
 <!--
 **AlexanderGuhl/AlexanderGuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
