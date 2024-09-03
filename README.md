@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on using ML to apply Tone Mapping Operators
 - 🌱 I’m currently learning about Superresolution using ML and Embedded Programming
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderGuhl)](https://github.com/AlexanderGuhl/github-readme-stats)
 
 <!--
 **AlexanderGuhl/AlexanderGuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
